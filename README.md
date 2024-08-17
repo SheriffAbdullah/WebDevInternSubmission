@@ -1,4 +1,4 @@
-# Namma Kaloori
+# Namma Kaloori Educational Website
 
 A simple HTML/CSS educational platform created during 1st Semester at University.
 
