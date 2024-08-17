@@ -16,5 +16,6 @@ This is a basic educational website I created during my 12th grade vacation. It'
 - Most links and buttons are placeholders.
 - External resources (like study materials) are stored on OneDrive.
 - The site is far from perfect, but it represents my first steps in web development.
+- Recently deployed using Surge for free hosting.
 
 Created by Abdullah Sheriff
