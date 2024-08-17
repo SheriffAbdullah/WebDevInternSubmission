@@ -1,16 +1,20 @@
-*** README.txt ***
+# Namma Kaloori
 
-Kindly open 'home.html'
+Demo site: namma-kaloori.surge.sh
 
-Contents: 
+This is a basic educational website I created during my 12th grade vacation. It's a straightforward attempt at building a simple HTML/CSS web platform.
 
-'home.html' -> Home page
-'Style/style.css' -> Cascading Style Sheet
-'Image' folder -> Thumbnail images & profile picture
-'Video' folder -> 1 Video (27.6 MB - 15s)
-'Output Screenshots.pdf' -> Contains overview of the Website
+## Features
+- Course video previews
+- College review video embeds
+- Study material links
+- Donation form (non-functional)
+- Founder information section
 
-Note:
-External files - stored in OneDrive
-Navigation bar and footer do not lead to any external pages yet
+## Notes
+- This is a static site with limited functionality.
+- Most links and buttons are placeholders.
+- External resources (like study materials) are stored on OneDrive.
+- The site is far from perfect, but it represents my first steps in web development.
 
+Created by Abdullah Sheriff
