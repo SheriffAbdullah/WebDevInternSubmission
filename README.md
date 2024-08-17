@@ -1,6 +1,6 @@
 # Namma Kaloori
 
-Demo site: namma-kaloori.surge.sh
+Demo site: [namma-kaloori.surge.sh](https://namma-kaloori.surge.sh)
 
 This is a basic educational website I created during my 12th grade vacation. It's a straightforward attempt at building a simple HTML/CSS web platform.
 
