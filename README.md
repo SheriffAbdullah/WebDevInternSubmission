@@ -1,5 +1,7 @@
 # Namma Kaloori - Educational Website
 
+"Namma Kaloori" means "Our College" in Tamil, a language spoken in South India.
+
 A simple HTML/CSS educational platform created during 1st Semester at University.
 
 Demo site: [namma-kaloori.surge.sh](https://namma-kaloori.surge.sh)
